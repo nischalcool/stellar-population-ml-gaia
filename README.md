@@ -1,7 +1,7 @@
 # Stellar Population Classification in Open Clusters
 ## Using Unsupervised Machine Learning and Gaia DR3
 
-DOI-(https://zenodo.org/records/20822726)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20822726.svg)](https://doi.org/10.5281/zenodo.20822726)
 
 **Author:** Nischal Shah
 **Status:** Submitted to Young Scientists Journal (YSJ) | Preprint on Zenodo  
