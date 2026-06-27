@@ -55,9 +55,13 @@ We apply four unsupervised machine learning algorithms to Gaia DR3 photometric a
 ---
 
 ## Repository Structure
-├── notebooks/
-│   └── stellar_population_analysis_complete.ipynb
----
+
+├── .gitignore
+├── LICENSE
+├── README.md
+├── data_instructions.txt
+├── requirements.txt
+└── stellar_population_analysis_complete.ipynb
 
 ## How to Reproduce
 
@@ -84,4 +88,7 @@ Shah, N. (2025). Unsupervised Machine Learning Classification of Stellar Populat
 ## Contact
 
 Nischal Shah | Independent Researcher | Dharan, Nepal  
-Nischal Shah
+nischalcool100@gmail.com
+
+## Note 
+Some section in this github is completely AI generated, do contact me if there are any irregularities. 
